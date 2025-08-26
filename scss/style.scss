@@ -1,0 +1,18 @@
+@import './navbar';
+
+* {
+  box-sizing: border-box;
+  padding: 0rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Inter', Segoe UI, Roboto, Arial,
+    sans-serif;
+  background: #0b0b0b;
+  color: #fff;
+}
